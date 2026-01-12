@@ -4,3 +4,4 @@ from app.models import Actor
 
 
 # add manager here
+def add
